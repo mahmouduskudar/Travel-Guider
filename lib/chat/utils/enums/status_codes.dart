@@ -1,0 +1,4 @@
+enum StatusCode {
+  success,
+  notFound,
+}
