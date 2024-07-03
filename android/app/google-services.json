@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828540317912",
+    "project_id": "grad-proj-taha",
+    "storage_bucket": "grad-proj-taha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828540317912:android:2fdfc9f5d83635a2dca7ad",
+        "android_client_info": {
+          "package_name": "com.example.bitirmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828540317912-t51dq1cich0684i1qs20fhd550ic6dvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaI9UTlI9qq-gUEuGAPIrUXaxTTB7G314"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828540317912-t51dq1cich0684i1qs20fhd550ic6dvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
